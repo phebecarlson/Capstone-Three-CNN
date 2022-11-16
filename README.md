@@ -1,4 +1,4 @@
-# Capstone-Three-CNN
+# Capstone Three: Brain Tumor MRI Imaging Classification with CNN
  
 Healthcare is an ever-evolving field on the precipice of using artificial intelligence to enhance the knowledge of doctors and assist in more rapid and effective treatment to promote a healthier and higher quality of life for people around the world.
 
